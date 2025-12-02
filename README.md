@@ -20,7 +20,7 @@ This is educational Workshop for 42Bangkok students  to learn how to interact wi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/miliausha/ai_powered_greeting_cards.git
+git clone https://github.com/asch8862/ai_powered_greeting_cards.git
 cd ai_powered_greeting_cards
 
 ```
